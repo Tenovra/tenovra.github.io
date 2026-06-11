@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tenovra&#39;s Blog</title>
+        <link>http://localhost:2549/</link>
+        <description>Recent content on Tenovra&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 20 May 2026 14:56:35 +0800</lastBuildDate><atom:link href="http://localhost:2549/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>MyFirstBlog</title>
+            <link>http://localhost:2549/post/myfirstblog/</link>
+            <pubDate>Wed, 20 May 2026 14:56:35 +0800</pubDate>
+            <guid>http://localhost:2549/post/myfirstblog/</guid>
+            <description>&lt;h3 id=&#34;hello&#34;&gt;hello&#xA;&lt;/h3&gt;</description>
+        </item></channel>
+</rss>
