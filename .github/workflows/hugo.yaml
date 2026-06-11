@@ -43,7 +43,7 @@ jobs:
       - name: 检出
         uses: actions/checkout@v4
         with:
-          submodules: recursive
+          # submodules: recursive
           fetch-depth: 0
       - name: 设置Pages
         id: pages
