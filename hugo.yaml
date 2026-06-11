@@ -1,5 +1,5 @@
 baseURL: "https://tenovra.github.io/"
-locale: en-us
+locale: zh-cn
 title: "Tenovra's Blog"
 theme: ["PaperMod"]
 
